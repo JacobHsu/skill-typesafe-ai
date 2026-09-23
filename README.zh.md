@@ -37,6 +37,11 @@ npx skills add typesafe-ai/skills --skill typesafe-ai
 |---|---|
 | [typesafe-ai](skills/typesafe-ai/SKILL.md) | 設計 TypeSafe 工作流程、查找最新文件與操作手冊，並在程式碼中組合具型別的判斷 |
 
+## 文件
+
+[docs.typesafe.ai](https://docs.typesafe.ai/introduction)  
+[Playground](https://console.typesafe.ai/playground)  
+
 ## 授權條款
 
 [MIT](LICENSE)。
